@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Adam Fry Development Documentation'
+project = 'Adam Fry Docs'
 copyright = '2023, Adam Fry'
 author = 'Adam Fry'
 
