@@ -31,3 +31,7 @@ Once you have a github repo, sign up for an account at https://readthedocs.org/.
 
 Click **Next** and you'll be taken to a page that shows the documentation project is building.  Give it a minute and then refresh the page to see your documentation is ready.  Click the view the documentation link and see your documentation project now hosted online.
 
+CI/CD
+-----
+Now that you have integration setup between VSCode and Github as well as Github and ReadTheDocs, each time you push to the master branch, the documentation will be rebuilt from and deployed.
+
