@@ -22,4 +22,8 @@ Before we can push to a remote repository, first setup the local repository in V
 
 Create initial commit
 ---------------------
-Enter a message for the initial commit and click the commit button.
+Enter a message for the initial commit and click the commit button.  If prompted that no changes are staged and whether you want to stage changes, choose always.  This commits the current version of the project to the local repository.
+
+Publish branch
+--------------
+Once changes are committed, they can be published to our github repo.  
