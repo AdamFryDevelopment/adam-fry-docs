@@ -13,5 +13,4 @@ This section covers creating and maintaining a documentation project such as thi
    samples
    restructuredText_reference
    using_github_for_version_control
-   hosting_on_readthedocs_website
    editing_this_project
