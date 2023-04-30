@@ -1,3 +1,3 @@
 Dynamics AX
 +++++++++++
-Coming soon - test
+Coming soon
