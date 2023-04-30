@@ -35,3 +35,15 @@ CI/CD
 -----
 Now that you have integration setup between VSCode and Github as well as Github and ReadTheDocs, each time you push to the master branch, the documentation will be rebuilt from and deployed.
 
+Enable Requests
+---------------
+So you don't get a bunch of weirdo's pushing junk to your project, enable pull requests.
+
+- Open your repo on github
+- Click settings link
+- Click branches
+- Click add branch protection rule 
+- Enter master as branch name pattern
+- Check require pull request reviews before merging
+- Save changes
+
