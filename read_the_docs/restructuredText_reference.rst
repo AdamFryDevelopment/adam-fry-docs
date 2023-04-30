@@ -409,7 +409,7 @@ Code sample:
 Linking to another document in the project 
 ------------------------------------------
 To link to a document, internal to the documentation project, use `:doc:`.  To link to the project setup document of this project: 
-:doc:`/documentation_with_read_the_docs/project_setup`
+:doc:`/read_the_docs/project_setup`
 
 .. code-block:: restructuredtext
 
@@ -417,7 +417,7 @@ To link to a document, internal to the documentation project, use `:doc:`.  To l
    :doc:`/documentation_with_read_the_docs/project_setup`
 
 If you want to link to an internal document embeded in custom text, use this syntax: 
-:doc:`HERE IS WHERE THE PROJECT SETUP SECTION IS </documentation_with_read_the_docs/project_setup>`
+:doc:`HERE IS WHERE THE PROJECT SETUP SECTION IS </read_the_docs/project_setup>`
 
 .. code-block:: restructuredtext
 

@@ -6,7 +6,7 @@ Welcome to my documentation!
    :caption: Contents:
    :hidden:
 
-   documentation_with_read_the_docs/index
+   read_the_docs/index
    microsoft_dynamics_ax/index
    sql/index
    git/index
