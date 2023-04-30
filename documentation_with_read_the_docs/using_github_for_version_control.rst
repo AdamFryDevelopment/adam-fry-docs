@@ -23,7 +23,7 @@ Publish branch
 Once changes are committed, they can be published to a new github repo.  Click the publish branch button.  You will be prompted to sign into your github account.  Follow the prompts to sign in and generate a github repo to push to.
 
 Connecting Github and ReadTheDocs
-=================================
+---------------------------------
 Once you have a github repo, sign up for an account at https://readthedocs.org/.  Once you have an account on ReadTheDocs, open your account settings and click the connected services link.  Select **Connect to Github**.  Follow the prompts to authorize your ReadTheDocs account to connect to your Github account.  Once connected, click on your account and click **Import a Project**.  ReadTheDocs should present you with a list of your GitHub repos.  Select the repo that we created in the prior step.  
 
 .. warning :: 
